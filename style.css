@@ -62,13 +62,13 @@
 .fifthContainer #box{
     margin: 30px;
 }
+
 .fifthContainer-left{
     display: flex;
     width: 15%;
     border: 1px solid;
     align-items: left;
     justify-content: center;
-    margin:
 }
 
 .sixthContainer{
