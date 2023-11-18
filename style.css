@@ -45,12 +45,30 @@
     justify-content: center;
 }
 
-.fifthContainer{
+.fifthContainer-right{
     display: flex;
     width: 100%;
     border: 1px solid;
     align-items: center;
     justify-content: space-around;
+}
+
+.fifthContainer{
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+}
+
+.fifthContainer #box{
+    margin: 30px;
+}
+.fifthContainer-left{
+    display: flex;
+    width: 15%;
+    border: 1px solid;
+    align-items: left;
+    justify-content: center;
+    margin:
 }
 
 .sixthContainer{
